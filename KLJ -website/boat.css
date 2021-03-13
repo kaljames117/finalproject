@@ -1,0 +1,26 @@
+@charset "UTF-8";
+#title {
+    color: #692F04;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+    font-variant: small-caps;
+    text-shadow: 0px 0px 2323px #9A3335;
+    border-top-color: #B9393B;
+    text-align: center;
+    border-top-left-radius: 1px;
+    /* [disabled]background-color: #FFFFFF; */
+    text-decoration: overline;
+}
+
+#title2 {
+	 color: #692F04;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+    font-variant: small-caps;
+    text-shadow: 0px 0px 2323px #9A3335;
+    border-top-color: #B9393B;
+    border-top-left-radius: 1px;
+    /* [disabled]background-color: #FFFFFF; */
+    text-align: center;
+    text-decoration: overline;
+}
